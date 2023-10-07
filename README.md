@@ -2,10 +2,10 @@
 
 ## Table of contents
 
--[Overview](#Overview)
--[Built with](#Built-with)
--[Useful resources](#Useful-resources)
--[Special Thanks](#Special-Thanks)
+- [Overview](#Overview)
+- [Built with](#Built-with)
+- [Useful resources](#Useful-resources)
+- [Special Thanks](#Special-Thanks)
 
 ### Overview
 

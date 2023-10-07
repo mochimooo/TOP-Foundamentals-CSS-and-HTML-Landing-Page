@@ -1,23 +1,26 @@
 # TOP-Foundamentals-CSS-and-HTML-Landing-Page
 
-##Table of contents
+##gitTable of contents
 -[Overview](#Overview)
--[Built with](#Built with)
--[Useful resources](#Useful resources)
--[Special Thanks](#Special Thanks)
+-[Built with](#Built-with)
+-[Useful resources](#Useful-resources)
+-[Special Thanks](#Special-Thanks)
 
 ###Overview
+
 Completed 10-05-2023:
-This is my first project after completing the Foundamental Path of The Odin 
-Project. Currently it's not mobile device friendly. 
+This is my first project after completing the Foundamental Path of The Odin Project. Currently it's not mobile device friendly. 
 
 ###Original Design
+
 ![Screenshot](./image/01.png)
 
 ###Built with
+
 HTML and CSS(Flexbox)
 
 ###Useful resources
+
 [Project:Landing Page](https://www.theodinproject.com/lessons/foundations-landing-page): This 
 is the assignment page where I get the inspiration for this website.
 
